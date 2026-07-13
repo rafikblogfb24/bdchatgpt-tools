@@ -1,0 +1,6 @@
+{
+  "name": "BDchatGPT",
+  "description": "Premium AI tool suite for text, code, and productivity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
